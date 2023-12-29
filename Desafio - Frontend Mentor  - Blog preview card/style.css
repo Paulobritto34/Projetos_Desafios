@@ -1,0 +1,55 @@
+body {
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+    font-family: 'Figtree', sans-serif;
+    background-color: hsl(47, 88%, 63%);
+}
+
+.central {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 22vh auto 20vh ;
+    width: 28vh;
+    border-radius: 10px;
+    box-shadow: 13px 10px 0px black;
+    background-color: hsl(0, 0%, 100%);
+}
+
+.central img {
+    border-radius: 10px;
+}
+
+#lear {
+    margin-top: 2vh;
+    margin-bottom: 8px;
+    padding: 3px;
+    width: 80px;
+    text-align: center;
+    border: 1px solid #f5d04e;
+    border-radius: 4px;
+    background-color: #f5d04e;
+}
+
+p {
+    color: hsl(0, 0%, 50%);
+}
+
+span {
+    color: #f5d04e;
+    margin-top: 9px;
+}
+.rodaPe {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+
+}
+.rodaPe img {
+    width: 3vh;
+    margin-right: 1vw
+}
+
