@@ -1,6 +1,3 @@
-# Projetos_testes
-Projeto Lamp On/Off
+Olá!
 
-
-
-É um projeto simplis e meu primeiro aqui no GitHub :)
+Esse é um repositorio apenas para Desafios e pequenos projeto que irei ralizar durante a minha trajetoria de estudo.
